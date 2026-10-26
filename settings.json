@@ -1,0 +1,23 @@
+{
+  "businessName": "JACO",
+  "tagline": "Electrical Electronics",
+  "phone": "+234 800 000 0000",
+  "email": "info@jacoelectrical.com",
+  "address": "123 Market Road, Lagos, Nigeria",
+  "whatsapp": "2348000000000",
+  "hours": "Mon - Sat: 8:00 AM - 8:00 PM",
+  "primaryColor": "#0066ff",
+  "primaryDark": "#0047b3",
+  "primaryLight": "#3b8eff",
+  "accentColor": "#ff6b35",
+  "accentDark": "#e85a28",
+  "heroTitle": "Power Your Home with Premium Appliances",
+  "heroSubtitle": "Shop top-quality refrigerators, air conditioners, TVs, washing machines, generators, and more — all backed by warranty and expert support.",
+  "announcementText": "🔥 Mega Sale! Up to 40% off on selected appliances.",
+  "facebook": "#",
+  "instagram": "#",
+  "twitter": "#",
+  "productsSold": "5000",
+  "happyCustomers": "1200",
+  "yearsExperience": "15"
+}
