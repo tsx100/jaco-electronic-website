@@ -1,0 +1,21 @@
+{
+  "products": [
+    { "id": 1, "name": "Smart Double Door Refrigerator 350L", "category": "refrigerator", "icon": "🧊", "price": 450000, "oldPrice": 520000, "rating": 4.8, "reviews": 124, "badge": "sale" },
+    { "id": 2, "name": "Inverter Split AC 1.5HP", "category": "ac", "icon": "❄️", "price": 320000, "oldPrice": 380000, "rating": 4.9, "reviews": 89, "badge": "sale" },
+    { "id": 3, "name": "55-inch 4K Ultra HD Smart TV", "category": "tv", "icon": "📺", "price": 280000, "oldPrice": 340000, "rating": 4.7, "reviews": 156, "badge": "sale" },
+    { "id": 4, "name": "Front Load Washing Machine 8kg", "category": "washing", "icon": "🌀", "price": 240000, "oldPrice": 290000, "rating": 4.6, "reviews": 72, "badge": "sale" },
+    { "id": 5, "name": "Silent Generator 5.5KVA", "category": "generator", "icon": "⚡", "price": 580000, "oldPrice": 650000, "rating": 4.8, "reviews": 45, "badge": "sale" },
+    { "id": 6, "name": "Digital Microwave Oven 30L", "category": "microwave", "icon": "🍳", "price": 95000, "oldPrice": 120000, "rating": 4.5, "reviews": 98, "badge": "sale" },
+    { "id": 7, "name": "Standing Fan 18-inch Remote", "category": "fan", "icon": "💨", "price": 28000, "oldPrice": 35000, "rating": 4.4, "reviews": 210, "badge": "sale" },
+    { "id": 8, "name": "Bluetooth Home Theater System", "category": "audio", "icon": "🔊", "price": 180000, "oldPrice": 220000, "rating": 4.6, "reviews": 67, "badge": "sale" },
+    { "id": 9, "name": "Mini Bar Fridge 90L", "category": "refrigerator", "icon": "🧊", "price": 120000, "oldPrice": 0, "rating": 4.3, "reviews": 34, "badge": "new" },
+    { "id": 10, "name": "Portable AC 1HP", "category": "ac", "icon": "❄️", "price": 190000, "oldPrice": 0, "rating": 4.5, "reviews": 28, "badge": "new" },
+    { "id": 11, "name": "43-inch Full HD LED TV", "category": "tv", "icon": "📺", "price": 145000, "oldPrice": 175000, "rating": 4.4, "reviews": 112, "badge": "sale" },
+    { "id": 12, "name": "Top Load Washing Machine 7kg", "category": "washing", "icon": "🌀", "price": 165000, "oldPrice": 200000, "rating": 4.3, "reviews": 54, "badge": "sale" },
+    { "id": 13, "name": "Heavy Duty Generator 10KVA", "category": "generator", "icon": "⚡", "price": 980000, "oldPrice": 1100000, "rating": 4.9, "reviews": 23, "badge": "sale" },
+    { "id": 14, "name": "Electric Oven 40L with Grill", "category": "microwave", "icon": "🍳", "price": 75000, "oldPrice": 95000, "rating": 4.4, "reviews": 41, "badge": "sale" },
+    { "id": 15, "name": "Rechargeable Table Fan", "category": "fan", "icon": "💨", "price": 18000, "oldPrice": 25000, "rating": 4.2, "reviews": 187, "badge": "sale" },
+    { "id": 16, "name": "Wireless Party Speaker", "category": "audio", "icon": "🔊", "price": 65000, "oldPrice": 0, "rating": 4.5, "reviews": 52, "badge": "new" },
+    { "id": 17, "name": "Side-by-Side Refrigerator 550L", "category": "refrigerator", "icon": "🧊", "price": 680000, "oldPrice": 780000, "rating": 4.9, "reviews": 38, "badge": "sale" },
+    { "id": 18, "name": "Cassette AC 2HP Ceiling", "category": "ac", "icon": "❄️", "price": 420000, "oldPrice": 490000, "rating": 4.7, "reviews": 19, "badge": "sale" },
+    { "id": 19, "name": "65-inch QLED Smart TV", "category": "tv", "icon": "📺", "price": 520000, "oldPrice": 0, "rating": 4.8, "reviews": 31, "badge":
