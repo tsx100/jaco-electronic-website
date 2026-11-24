@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tsx100/jaco-electrical-website
+  repo: tsx100/jaco-electronic-website
   branch: main
   base_url: https://decap-oauth.temitopesamuel11.workers.dev
   auth_endpoint: /auth
